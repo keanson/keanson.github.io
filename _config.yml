@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "keanson"
+  name             : "Tianjun Ke"
   avatar           : "profile.png"
   bio              : "Climbing 24/7"
   location         : "Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=lqS0vk4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
