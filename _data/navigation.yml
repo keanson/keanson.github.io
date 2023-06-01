@@ -8,4 +8,7 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Notes"
+    url: /notes/
     
