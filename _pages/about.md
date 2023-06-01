@@ -10,7 +10,7 @@ redirect_from:
 
 I am a junior undergraduate student majoring in Statistics at Renmin University of China. Here are my [CV](https://keanson.github.io/files/CV.pdf) and [Publications](https://scholar.google.com/citations?hl=en&user=lqS0vk4AAAAJ)
 
-My research interest spreads across machine learning, including learning theory, gaussian process, and statistical learning.
+My research interest lies in the intersection of statistics and computer science, focusing on machine learning theory, Bayesian statistics, and reinforcement learning.
 
 ## Recent News
 
