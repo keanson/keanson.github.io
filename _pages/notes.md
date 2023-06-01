@@ -4,7 +4,7 @@ title: "Notes"
 permalink: /notes/
 author_profile: true
 ---
-## [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/) Notes
+## Notes for [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 * [Chapter 1: Markov Decision Processes](https://keanson.github.io/files/AJKSChapter1.html)
 * [Chapter 6: Multi-Armed & Linear Bandits](https://keanson.github.io/files/AJKSChapter6.html)
 
