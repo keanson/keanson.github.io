@@ -17,16 +17,5 @@ author_profile: true
   {% include archive-pub.html %}
 {% endfor %}
 
-### CLIP as Multi-Task Multi-Kernel Learning
-
-Y. Lin*, **T. Ke***, X. Xia, J. Yin, J. Xu, T. Cai, J. Lu
-
-Submitted, 2023.
-
-### Revisiting Logistic-softmax Likelihood in Bayesian Meta-Learning for Few-Shot Classification
-**T. Ke***, H. Cao*, Z. Ling, F. Zhou
-
-Submitted, 2023.
-
 
   
