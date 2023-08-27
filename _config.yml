@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Tianjun Ke / Personal Site"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tianjun Ke"
 description              : &description "This is my personal description."
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianjun Ke"
-  avatar           : "profile.png"
+  avatar           : "蓝底.jpg"
   bio              : "Happy Sisyphus Climbing 24/7"
   location         : "Beijing, China"
   employer         :
