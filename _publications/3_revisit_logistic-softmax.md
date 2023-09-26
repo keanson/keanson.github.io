@@ -3,6 +3,6 @@ title: "Revisiting Logistic-softmax Likelihood in Bayesian Meta-Learning for Few
 collection: publications
 permalink: /publication/revisit_logistic-softmax
 author: '<strong>T. Ke*</strong>, H. Cao*, Z. Ling, F. Zhou'
-conf: 'NeurIPS 2023'
+conf: 'NeurIPS poster'
 year: 2023
 ---
