@@ -16,4 +16,6 @@ I am a big cinephile and my favorite film of all time is [The Lighthouse](https:
 
 ## Recent News
 
-* **May, 2023** Preparing to submit to NeurIPS for the first time!
+* **Sept, 2023** Paper about the logistic-softmax likelihood accepted to NeurIPS!
+
+* **May, 2023** Preparing to submit to NeurIPS for the first time
