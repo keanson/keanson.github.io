@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Homepage"
+title                    : "Tianjun Ke"
 title_separator          : "-"
 name                     : &name "Tianjun Ke"
 description              : &description "This is my personal description."
