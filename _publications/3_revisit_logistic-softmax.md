@@ -8,6 +8,7 @@ year: '2023'
 author: '<strong>T. Ke*</strong>, H. Cao*, Z. Ling, F. Zhou'
 paperurl: https://arxiv.org/abs/2310.10379
 codeurl: https://github.com/keanson/revisit-logistic-softmax
+projecturl: https://neurips.cc/virtual/2023/poster/71263
 additional: true
 highlight: 'New theoretical discovery of logistic-softmax and state-of-the-art result with mean-field approximation.'
 
